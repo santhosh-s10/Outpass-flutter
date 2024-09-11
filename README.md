@@ -1,4 +1,4 @@
-# sample1
+# College Out-pass flutter application
 
 A new Flutter project.
 
